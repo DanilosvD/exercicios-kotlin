@@ -1,0 +1,12 @@
+
+*Variável* -> Não pode ser declarada sem tipo ou atribuição.
+           -> Só recebe valores do mesmo tipo, inferido antes.
+
+
+               -> Var - Valor alterável, CamelCase.
+
+               -> Val - Valor inalterável, CamelCase. Dentro da função main.
+
+               -> Const Val - Valor inalterável, SNAKE_CASE. Fora da função main.
+
+                ? -> A variável com esse símbolo aceita valor nulo.
