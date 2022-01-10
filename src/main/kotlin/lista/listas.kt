@@ -29,4 +29,5 @@ fun lista(){
     println(ultimo)
     println(posicaoAleatoria)
     println(nomes.contains("Carla"))
+    println(nomes.sorted())// Ordem alfabética
 }
